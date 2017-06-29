@@ -1,0 +1,1 @@
+snippet 'gs' 'git status'
